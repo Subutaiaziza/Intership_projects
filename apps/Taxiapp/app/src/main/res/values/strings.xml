@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Taxi app</string>
+    <string name="map_key" translatable="false"> AIzaSyDt9Wta0B_zGm4d_FbWUnU3eNEuCEATEDg </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
